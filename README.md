@@ -78,7 +78,7 @@
 <br/>  
 
 <div align="center">
-<p><a href="https://github.com/IndianDevInc"><img src="https://avatars.githubusercontent.com/u/85619363?s=96&v=4" alt="kartik"></a></p></div>  
+<p><a href="https://github.com/IndianDevInc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndianDevInc&amp;layout=compact" alt="kartik"></a></p></div>  
   
 
 ![](https://avatars.githubusercontent.com/u/85619363?s=96&v=4)
