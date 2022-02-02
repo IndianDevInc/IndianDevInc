@@ -81,7 +81,7 @@
 <p><a href="https://github.com/IndianDevInc"><img src="https://avatars.githubusercontent.com/u/85619363?s=96&v=4" alt="kartik"></a></p></div>  
   
 
-![](https://avatars.githubusercontent.com/u/73753258?v=4)
+![](https://avatars.githubusercontent.com/u/85619363?s=96&v=4)
 
 ## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/668nNfEby6)
 ## [**Youtube Channel Link**](https://www.youtube.com/c/CodingIndia)
