@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kartik aka Kartik OP, </div>  
+### <div align="center">I'm Kartik aka Just a Kartik, </div>  
   
 
 - 🔭 I’m currently Coding AN Website Music Bot and Multi Purpose Bot
