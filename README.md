@@ -1,90 +1,53 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=indiandevinc&data=followers,repositories,stars,commits&theme=mountain)](https://github.com/indiandevinc/)
 
-### <div align="center">I'm Kartik aka Just a Kartik, </div>  
-  
+--- 
 
-- 🔭 I’m currently Coding AN Website Music Bot and Multi Purpose Bot
-  
+# 👋 Hi, I'm Kartikey Tiwari!
 
-- 🌱 I’m currently coding in Javascript , EJS and CSS and HTML..
-  
+Welcome to my GitHub profile! I'm **Kartikey Tiwari**, a passionate developer and creative mind behind [justakartik.com](https://justakartik.com). 🚀  
 
-- ❓  I am in love with coding, I also love helping!.
-  
+I build sleek, user-friendly web experiences and love solving real-world problems through technology.  
 
-  
+---
 
-<br/>  
+## 👨‍💻 About Me
 
+- 💻 **Web Developer**: Specializing in **React**, **Tailwind CSS**, and building responsive, performant applications.  
+- ✨ **Creative Thinker**: I bring ideas to life with code and design.  
+- 🎯 **Focused on Innovation**: Always learning and exploring new technologies to stay ahead.  
+- 🌍 **Check out my portfolio**: [justakartik.com](https://justakartik.com).  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
+## 💼 What I Do
 
+- **Frontend Development**: Crafting beautiful, responsive, and interactive web interfaces.  
+- **Backend Development**: Building APIs and server-side logic for seamless experiences.   
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🚀 My Skills
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>
+Here are some of the tools and technologies I work with:
 
-</td><td valign="top" width="33%">
+- **Languages**: JavaScript, Python  
+- **Frontend**: React, Tailwind CSS, HTML5, CSS3  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, SQL  
+- **Tools**: Git, VS Code, Postman  
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
+---
 
-</td></tr></table>  
+## 📈 GitHub Stats  
 
-<br/>  
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=indiandevinc&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiandevinc&layout=compact&theme=radical)  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/IndianDevInc" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/c/CodingIndia" target="_blank">
-<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/668nNfEby6" target="_blank">
-<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/>  
+## 🌟 Let's Connect!
 
+I'm always open to collaboration and new opportunities. Reach out and say hi!
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IndianDevInc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<p><a href="https://github.com/IndianDevInc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndianDevInc&amp;layout=compact" alt="kartik"></a></p></div>  
-  
-
-![](https://avatars.githubusercontent.com/u/85619363?s=96&v=4)
-
-## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/668nNfEby6)
-## [**Youtube Channel Link**](https://www.youtube.com/c/CodingIndia)
-
-# SUPPORT ME
-[![spotify](https://dev.discordprofiles.me/badge/spotify/724533169964974112?style=flat-square)](https://dev.discordprofiles.me/openspotify/724533169964974112?style=flat-square)
+- 🌐 Website: [justakartik.com](https://justakartik.com)   
+- 📧 Email: [hi@justakartik.com](#)
